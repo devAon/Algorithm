@@ -4,7 +4,7 @@
 - Greedy algorithm 또는 탐욕 알고리즘 이라고 불림
 - 최적의 해에 가까운 값을 구하기 위해 사용됨
 - 여러 경우 중 하나를 결정해야할 때마다, **매순간 최적이라고 생각되는 경우를 선택**하는 방식으로 진행해서, 최종적인 값을 구하는 방식
-
+</br>
   
 
 ### 📌 탐욕 알고리즘 예
@@ -36,3 +36,44 @@ min_coin_count(4720, coin_list)
 👉 **결과값** 
 31, [[500, 9], [100, 2], [50, 0], [1, 20]]
 
+</br>
+
+
+
+
+
+#### 🧵 부분 배낭 문제 (Fractional Knapsack Problem)
+
+  - 무게 제한이 k인 배낭에 최대 가치를 가지도록 물건을 넣는 문제
+    - 각 물건은 무게(w)와 가치(v)로 표현될 수 있음
+    - 물건은 쪼갤 수 있으므로 물건의 일부분이 배낭에 넣어질 수 있음, 그래서 Fractional Knapsack Problem 으로 부름
+      - Fractional Knapsack Problem 의 반대로 물건을 쪼개서 넣을 수 없는 배낭 문제도 존재함 (0/1 Knapsack Problem 으로 부름)
+        <img src="https://www.fun-coding.org/00_Images/knapsack.png" height=100>
+
+
+```
+data_list = [(10, 10), (15, 12), (20, 10), (25, 8), (30, 5)]
+
+def get_max_value(data_list, capacity):
+    data_list = sorted(data_list, key=lambda x: x[1] / x[0], reverse=True)
+    total_value = 0
+    details = list()
+    
+    for data in data_list:
+        if capacity - data[0] >= 0:
+            capacity -= data[0]
+            total_value += data[1]
+            details.append([data[0], data[1], 1])
+        else:
+            fraction = capacity / data[0]
+            total_value += data[1] * fraction
+            details.append([data[0], data[1], fraction])
+            break
+    return total_value, details
+
+get_max_value(data_list, 30)
+```
+
+👉 **결과값** 
+(24.5, [[10, 10, 1], [15, 12, 1], [20, 10, 0.25]])
+    
