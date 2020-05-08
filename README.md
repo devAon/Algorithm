@@ -4,8 +4,8 @@
 </br>
 </br>
 
-## 📝 개념과 표현
-
+## 📝 [개념과 표현 (Expressing Algorithms)](https://github.com/devAon/Algorithm/tree/master/Expressing%20Algorithms)
+* [Greedy](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/Greedy.md)
   
 
 </br>
