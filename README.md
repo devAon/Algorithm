@@ -24,7 +24,7 @@
 
 ### ⭐ Codeup
 
-* [기초 100제](https://github.com/devAon/Algorithm/tree/master/Codeup)
+* [기초 100제](https://github.com/devAon/Algorithm/tree/master/Codeup-Python)
 
 <br>
 
@@ -38,7 +38,7 @@
 
 #### DP (Dynamic Programming)
 [11726](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-11726.md), 
-[11727](https://github.com/devAon/Algorithm/commit/f6d6401e8b52a264456d305bc03b580b92919756), 
+[11727](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-11727.md), 
 [2133](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2133.md), 
 [1463](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1463.md), 
 
