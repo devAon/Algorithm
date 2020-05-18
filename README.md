@@ -2,12 +2,13 @@
 
 > 🎶 🛬 **알고리즘** `개념과 표현` and `문제와 풀이`  🛬🎶
 
+<br>
 
 ## 📝 [개념과 표현 (Expressing Algorithms)](https://github.com/devAon/Algorithm/tree/master/Expressing%20Algorithms)
 * [DP & Divide and Conquer](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/DP%20%26%20Divide%20and%20Conquer.md)
 * [Greedy](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/Greedy.md)
   
-
+<br>
 
 ## 👩‍💻 문제와 풀이
 
@@ -19,10 +20,12 @@
 
 * 문제 풀이 결과 이미지 첨부
 
+<br>
 
 ### ⭐ Codeup
 
 * [기초 100제](https://github.com/devAon/Algorithm/tree/master/Codeup)
+
 <br>
 
 ### 🌞 BOJ (백준)
