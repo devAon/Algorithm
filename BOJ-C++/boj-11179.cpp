@@ -1,31 +1,23 @@
 #include <iostream>
-#include <string>
+#include <stack>
 using namespace std;
-int tenToTow(int);
-int twoToten(int);
-int main(){
-	int N;
+stack<int> s;
+void tenToTwo(int x) {
+	if (x == 0) return;
+	else {
+		s.push(x % 2);
+		tenToTwo(x / 2);
+	}
+}
+int main() {
+	int N, result = 0, data = 1;
 	cin >> N;
-	cout << twoToten(tenToTow(N));
-}
-int tenToTow(int num){
-	int result = 0;
-	for(int i = 1; num > 0; i *= 10){
-		int binary = num % 2;
-		result += binary * i;
-		num /= 2;
+	tenToTwo(N);
+	while (!s.empty()) {
+		result += s.top() * data;
+		data = data * 2;
+		s.pop();
 	}
-	return result;
-}
-int twoToten(int n){
-	string s = to_string(n);
-	reverse(s.begin(), s.end());
-	int num = atoi(s.c_str());
-	int result = 0, mul = 1;
-	while(num > 0){
-		if(num % 2) result += mul;
-		mul *= 2;
-		num /= 10;
-	}
-	return result;
+	cout << result;
+	return 0;
 }
