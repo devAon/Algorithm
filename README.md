@@ -7,6 +7,7 @@
 ## 📝 [개념과 표현 (Expressing Algorithms)](https://github.com/devAon/Algorithm/tree/master/Expressing%20Algorithms)
 * [DP & Divide and Conquer](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/DP%20%26%20Divide%20and%20Conquer.md)
 * [Greedy](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/Greedy.md)
+* [TwoPointer and PrefixSum](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/TwoPointer%20and%20PrefixSum.md)
   
 <br>
 
