@@ -54,6 +54,9 @@
 #### 이분탐색
 [1920](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1920.cpp), 
 
+#### 브루트포스 알고리즘
+[2309](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2309.cpp), 
+
 #### 그 외
 [2477](), 
 [13300](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-13300.md), 
