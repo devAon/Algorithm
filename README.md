@@ -46,6 +46,7 @@
 [2133](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2133.md), 
 [1463](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1463.md), 
 [5585](https://github.com/devAon/Algorithm/blob/master/BOJ-Python/boj-5585.md), 
+[17224](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-17224.cpp), 
 
 #### 문자열 처리
 [1475](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1475.md), 
