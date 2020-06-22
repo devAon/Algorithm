@@ -15,11 +15,8 @@
 
 ### 📌 작성 규칙
 
-* Markdown을 통해 문서 생성
+* 문제 출처와 번호로 커밋 ex) boj-9605
 
-* 문제 출처와 번호로 파일명 생성 ex) boj-9605
-
-* 문제 풀이 결과 이미지 첨부
 
 <br>
 
@@ -52,6 +49,9 @@
 
 #### 문자열 처리
 [1475](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1475.md), 
+
+#### 이분탐색
+[1920](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1920.cpp), 
 
 #### 그 외
 [2477](), 
