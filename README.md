@@ -63,3 +63,4 @@
 [10807](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-10807.md), 
 [10162](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-10162.md), 
 [2920](https://github.com/devAon/Algorithm/blob/master/BOJ-Python/boj-2920.md), 
+[17269](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-17269.cpp), 
