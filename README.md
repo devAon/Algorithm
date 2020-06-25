@@ -15,11 +15,8 @@
 
 ### 📌 작성 규칙
 
-* Markdown을 통해 문서 생성
+* 문제 출처와 번호로 커밋 ex) boj-9605
 
-* 문제 출처와 번호로 파일명 생성 ex) boj-9605
-
-* 문제 풀이 결과 이미지 첨부
 
 <br>
 
@@ -42,6 +39,7 @@
 [11727](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-11727.md), 
 [2133](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2133.md), 
 [1463](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1463.md), 
+[14501](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-14501.cpp), 
 
 #### Greedy
 [1439](https://github.com/devAon/Algorithm/blob/master/BOJ-Python/boj-1439.md), 
@@ -49,9 +47,20 @@
 [2133](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2133.md), 
 [1463](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1463.md), 
 [5585](https://github.com/devAon/Algorithm/blob/master/BOJ-Python/boj-5585.md), 
+[17224](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-17224.cpp), 
 
 #### 문자열 처리
 [1475](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1475.md), 
+
+#### 이분탐색
+[1920](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-1920.cpp), 
+
+#### 브루트포스 알고리즘
+[2309](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2309.cpp), 
+
+#### 두 포인터
+[2003](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-2003.cpp), 
+
 
 #### 그 외
 [2477](), 
@@ -59,3 +68,6 @@
 [10807](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-10807.md), 
 [10162](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-10162.md), 
 [2920](https://github.com/devAon/Algorithm/blob/master/BOJ-Python/boj-2920.md), 
+[17269](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-17269.cpp), 
+[15969](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-15969.cpp), 
+[10539](https://github.com/devAon/Algorithm/blob/master/BOJ-C%2B%2B/boj-10539.cpp), 
