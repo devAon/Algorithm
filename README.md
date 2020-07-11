@@ -9,7 +9,7 @@
 * [Greedy](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/Greedy.md)
 * [Space Complexity](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/Space%20Complexity.md)
 * [TwoPointer and PrefixSum](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/TwoPointer%20and%20PrefixSum.md)
-
+* [Bubble Sort](https://github.com/devAon/Algorithm/blob/master/Expressing%20Algorithms/bubble%20sort.md)
 
 <br>
 
